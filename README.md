@@ -1,4 +1,4 @@
-# Student-s-Performance-Analysis
+
 # Student Performance Prediction
 
 This project predicts student marks using Machine Learning.
